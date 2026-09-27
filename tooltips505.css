@@ -1,0 +1,21 @@
+#s-m-t-tooltip {
+    max-width: 300px;
+    padding: 5px 8px;
+
+    background: #080808;
+    color: #f2f2f2;
+
+    font-family: Arial, sans-serif;
+    font-size: 9px;
+    font-weight: bold;
+    line-height: 11px;
+    text-transform: uppercase;
+    letter-spacing: 0.2px;
+
+    border: 1px solid #1c1c1c;
+    border-radius: 0;
+
+    box-shadow: none;
+
+    z-index: 9999;
+}
